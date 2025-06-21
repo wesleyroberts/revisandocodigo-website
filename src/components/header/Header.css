@@ -1,0 +1,15 @@
+
+.revisandocodigo-header-container{
+    width: 1360px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+}
+
+.revisandocodigo-brand{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-right:auto;
+}
