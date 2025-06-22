@@ -5,6 +5,7 @@ import Stats from './Stats/Stats';
 import Videos from './Videos/Videos';
 import About from './About/About';
 import Contact from './Contact/Contact';
+import Footer from './Footer/Footer';
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <Videos/>
       <About/>
       <Contact/>
+      <Footer/>
     </div>
 
   );

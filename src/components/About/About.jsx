@@ -19,8 +19,8 @@ const About = () => {
             <div className="row mt-4">
               <div className="col-sm-6 mb-3">
                 <div className="d-flex align-items-center">
-                  <div className="bg-primary rounded-circle p-2 me-3">
-                    <i class="bi bi-code-slash text-white"></i>
+                  <div className="bg-primary rounded-circle px-2 py-1 me-3">
+                    <i class="bi bi-code-slash text-white fs-2"></i>
                   </div>
                   <div>
                     <h6 className="mb-0">Tutoriais Práticos</h6>
@@ -30,8 +30,8 @@ const About = () => {
               </div>
               <div className="col-sm-6 mb-3">
                 <div className="d-flex align-items-center">
-                  <div className="bg-primary rounded-circle p-2 me-3">
-                    <i class="bi bi-mortarboard-fill text-white"></i>
+                  <div className="bg-primary rounded-circle px-2 py-1 me-3">
+                    <i class="bi bi-mortarboard-fill text-white fs-2"></i>
                   </div>
                   <div>
                     <h6 className="mb-0">Conteúdo Educativo</h6>

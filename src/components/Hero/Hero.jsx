@@ -3,7 +3,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section id="home" className="hero-section  bg-primary" style={{paddingTop: 100 + 'px', paddingBottom: 100 + 'px'}}>
+    <section id="home" className="hero-section  bg-primary" style={{paddingTop: 200 + 'px', paddingBottom: 200 + 'px'}}>
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-lg-8 text-center">
@@ -21,10 +21,10 @@ const Hero = () => {
                 Ver Vídeos
               </a>
               <a 
-                href="https://youtube.com" 
+                href="https://www.youtube.com/@revisandocodigo9273" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="btn btn-outline-light btn-lg"
+                className="btn btn-outline-warning btn-lg"
               >
                 Inscrever-se
               </a>
