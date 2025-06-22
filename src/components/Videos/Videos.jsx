@@ -4,37 +4,37 @@ const Videos = () => {
   const videos = [
     {
       title: 'Criando um React Client Extension',
-      description: 'Aprenda os conceitos básicos do Liferay 7.4 e suas principais funcionalidades.',
+      description: 'Aprenda a criar um modulo Client Extension do tipo frontend usando o framework React com o vite.',
       thumbnail: 'https://i.ytimg.com/vi/CCHHZrqowfw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC5azW6rwMQZPhLm4v_CoeJ-BgLcg',
       duration: '15:30'
     },
     {
       title: 'Visita Exclusiva: Tecnologia Avançada na Liferay - Controle de Drones com Client Extensions!',
-      description: 'Tutorial completo sobre como criar portlets customizados no Liferay.',
+      description: 'Confira o que rolou no meetup presencial em Recife-PE, com direito a visita ao escritório da Liferay.',
       thumbnail: 'https://i.ytimg.com/vi/H_pO-zUkJ2o/hqdefault.jpg?s…BACGAY4AUAB&rs=AOn4CLDMea7ue0n8BAnh0x65epS6DbqAqQ',
       duration: '22:45'
     },
     {
       title: 'Liferay Academy Brasil - Gerenciamento de Conteúdo Web #03',
-      description: 'Conheça as melhores práticas para desenvolver no ecossistema Liferay.',
+      description: 'Conheça as melhores práticas para gestão de conteúdos dentro do liferay.',
       thumbnail: 'https://i.ytimg.com/vi/7GKj9LX6cT0/hqdefault.jpg?s…BACGAY4AUAB&rs=AOn4CLA27qeXx2wS5SbfM6k5PBO89u9mBQ',
       duration: '18:20'
     },
     {
-      title: 'Integração com APIs REST',
+      title: 'Liferay Academy Brasil - Gerenciamento de Conteúdo Web #03',
       description: 'Como integrar o Liferay com APIs externas usando REST Services.',
       thumbnail: 'https://i.ytimg.com/vi/7GKj9LX6cT0/hqdefault.jpg?s…BACGAY4AUAB&rs=AOn4CLA27qeXx2wS5SbfM6k5PBO89u9mBQ',
       duration: '25:10'
     },
     {
-      title: 'Performance e Otimização',
-      description: 'Dicas essenciais para otimizar a performance do seu portal Liferay.',
+      title: 'Liferay Academy Brasil - Gerenciamento de Sites #02',
+      description: 'Aprenda a criar sites e receba dicas para gerenciar-los da melhor forma.',
       thumbnail: 'https://i.ytimg.com/vi/7GKj9LX6cT0/hqdefault.jpg?s…BACGAY4AUAB&rs=AOn4CLA27qeXx2wS5SbfM6k5PBO89u9mBQ',
       duration: '20:15'
     },
     {
-      title: 'Deploy e Configuração',
-      description: 'Guia completo para deploy e configuração em ambiente de produção.',
+      title: 'Liferay Academy Brasil -  Navegação e Funcionalidades Essenciais #01',
+      description: 'Guia completo sobre os principais recursos de gestão do portal Liferay.',
       thumbnail: 'https://i.ytimg.com/vi/7GKj9LX6cT0/hqdefault.jpg?s…BACGAY4AUAB&rs=AOn4CLA27qeXx2wS5SbfM6k5PBO89u9mBQ',
       duration: '30:05'
     }
