@@ -7,7 +7,7 @@ export default function Header() {
 
   return (
     <nav className="navbar navbar-expand-lg fixed-top bg-light ">
-      <div className="container-fluid">
+      <div className="container">
         <a className="navbar-brand text-pr fs-2" href="#home">
           <strong>Revisando Código</strong>
         </a>        
